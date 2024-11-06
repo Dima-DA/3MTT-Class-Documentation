@@ -1,5 +1,5 @@
 # 3MTT-Class-Documentation
-## Data Visulaization -week 7
+## Data Visulaization
 ---
 visualization is summed up in three key points:
 
@@ -61,11 +61,10 @@ What is even more important in all these is knowing the right chart to use and w
 So, here's what I learned last week in my 3MTT program.
 
 
+## Excel Asignment
 
 
-
-
-
+<img width="611" alt="3mtt data assignment" src="https://github.com/user-attachments/assets/c40f1386-a5ce-480a-95ad-3fa10b201871">
 
 
 
